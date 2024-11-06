@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I’m an  AIML student, deeply interested in artif
 ## 🌱 About Me
 - 🏫 **AIML Student** Currently in my 2nd year
 - 💻 **Learning Path**: Focused on building AI/ML skills and practical projects
-- 🌍 Based in **Kerala, India**
-- 🚀 **Current Projects**: IBM AI Developer Project
+- 🌍 Based in **Benagluru, India**
+- 🚀 **Current Projects**: Image Captioning AI
 
 
 
@@ -28,10 +28,10 @@ Welcome to my GitHub profile! I’m an  AIML student, deeply interested in artif
 
 ## 📌 Featured Projects
 
-- **[AI Chatbot Project](https://github.com/Xsparkm/Character-Based-ChatBot-for-Discord)**  
-   Discord Chat bot which gives reply based upon the input using difflib
+- **[Image Captioning AI](https://github.com/ShrijithSM/Image-Captioning-AI)**  
+   An image captioning app using BLIP and Gradio to generate AI-based captions for uploaded images.
 - **[IBM AI Developer Notes](https://github.com/ShrijithSM/IBM-AI-Developer-Notes)**  
-   Notes and Projects made while pursuing the IBM AI Developer Course
+   Notes and Projects made while pursuing the IBM AI Developer Course.
 
 ## 📫 Connect with Me
 
