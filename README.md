@@ -2,15 +2,11 @@
 
 Welcome to my GitHub profile! I’m an  AIML student, deeply interested in artificial intelligence, machine learning, and open-source contributions.
 
-
-
 ## 🌱 About Me
 - 🏫 **AIML Student** Currently in my 2nd year
 - 💻 **Learning Path**: Focused on building AI/ML skills and practical projects
 - 🌍 Based in **Bengaluru, India**
 - 🚀 **Current Projects**: AI Meme Generator
-
-
 
 ## 🛠️ Skills & Technologies
 
