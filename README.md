@@ -15,8 +15,6 @@ Welcome to my GitHub profile! I’m an  AIML student, deeply interested in artif
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-
-
 ## 🔥 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrijithSM&show_icons=true&theme=tokyonight)
