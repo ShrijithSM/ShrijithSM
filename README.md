@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m an  AIML student, deeply interested in artif
 - 🏫 **AIML Student** Currently in my 2nd year
 - 💻 **Learning Path**: Focused on building AI/ML skills and practical projects
 - 🌍 Based in **Bengaluru, India**
-- 🚀 **Current Projects**: AI Meme Generator
+- 🚀 **Current Projects**: [Stock Price Prediction](https://github.com/ShrijithSM/stock-price-prediction)
 
 ## 🛠️ Skills & Technologies
 
