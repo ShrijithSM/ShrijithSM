@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I’m an  AIML student, deeply interested in artif
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrijithSM&show_icons=true&theme=tokyonight)
 
-
 ## 📌 Featured Projects
 
 - **[Image Captioning AI](https://github.com/ShrijithSM/Image-Captioning-AI)**  
