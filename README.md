@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I’m an  AIML student, deeply interested in artif
 
 ## 🛠️ Skills & Technologies
 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
