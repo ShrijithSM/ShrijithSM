@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I’m an  AIML student, deeply interested in artif
 
 ## 📌 Featured Projects
 
-- **[Image Captioning AI](https://github.com/ShrijithSM/Image-Captioning-AI)**  
-   An image captioning app using BLIP and Gradio to generate AI-based captions for uploaded images.
+- **[Election Data Visualization and Prediction](https://github.com/coeusyk/election-prediction)**  
+  Visualize past election results and predict possible outcomes for an upcoming election.
 - **[IBM AI Developer Notes](https://github.com/ShrijithSM/IBM-AI-Developer-Notes)**  
    Notes and Projects made while pursuing the IBM AI Developer Course.
 
