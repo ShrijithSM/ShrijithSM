@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m an  AIML student, deeply interested in artif
 - 🏫 **AIML Student** Currently in my 2nd year
 - 💻 **Learning Path**: Focused on building AI/ML skills and practical projects
 - 🌍 Based in **Bengaluru, India**
-- 🚀 **Current Projects**: [Stock Price Prediction](https://github.com/ShrijithSM/stock-price-prediction)
+- 🚀 **Current Projects**: [Election Analysis and Result Prediction](https://github.com/coeusyk/election-prediction)
 
 ## 🛠️ Skills & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
