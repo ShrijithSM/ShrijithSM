@@ -22,8 +22,6 @@ Welcome to my GitHub profile! I’m an  AIML student, deeply interested in artif
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shrijithsm&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-oops
 ## 📌 Featured Projects
 
 - **[Speech Emotion Recogniton](https://github.com/ShrijithSM/Speech-Emotion-Recognition)**
