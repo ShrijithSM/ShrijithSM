@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m an  AIML student, deeply interested in artif
 - 🏫 **AIML Student** Currently in my 2nd year
 - 💻 **Learning Path**: Focused on building AI/ML skills and practical projects
 - 🌍 Based in **Bengaluru, India**
-- 🚀 **Current Projects**: [Speech Emotion Recogniton](https://github.com/ShrijithSM/Speech-Emotion-Recognition)
+- 🚀 **Current Projects**: [Airbnb Price Recommendation System](https://github.com/ShrijithSM/Airbnb-Price-Recommendation-System)
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shrijithsm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrijithsm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrijithsmenon@gmail.com) 
@@ -24,12 +24,13 @@ Welcome to my GitHub profile! I’m an  AIML student, deeply interested in artif
 ## 📌 Featured Projects
 
 - **[Speech Emotion Recogniton](https://github.com/ShrijithSM/Speech-Emotion-Recognition)**
-
   This project focuses on recognizing emotions from speech using machine learning techniques. It aims to classify audio recordings into different emotional states such as happy, sad, angry, etc.
 - **[Election Data Visualization and Prediction](https://github.com/coeusyk/election-prediction)**  
   Visualize past election results and predict possible outcomes for an upcoming election.
+- **[Airbnb Price Recommendation System](https://github.com/ShrijithSM/Airbnb-Price-Recommendation-System)**
+  A Streamlit app which gives price recommendation for Airbnb based on its filters. It uses ML model to predict this.
 - **[IBM AI Developer Notes](https://github.com/ShrijithSM/IBM-AI-Developer-Notes)**  
-   Notes and Projects made while pursuing the IBM AI Developer Course.
+   Notes and Projects made by me while pursuing the IBM AI Developer Course.
 ---
 
 Thanks for stopping by! Feel free to reach out, connect, and explore some of my projects. Let's build something amazing together!
