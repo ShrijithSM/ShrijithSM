@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! I’m an  AIML student, deeply interested in artificial intelligence, machine learning, and open-source contributions. :)
 
 ## 🌱 About Me
+- ⚡ Building [**Zentise**](https://github.com/zentise)
 - 🏫 **AIML Student** Currently in my 2nd year
 - 💻 **Learning Path**: Focused on building AI/ML skills and practical projects
 - 🌍 Based in **Bengaluru, India**
-- Building [**Zentise**](github.com/zentise)
 - 🚀 **Current Projects**: [Movie Recommendation System]([https://github.com/ShrijithSM/Airbnb-Price-Recommendation-System](https://github.com/Zentise/Movie-Recommendation-System))
 
 ## 🌐 Socials
