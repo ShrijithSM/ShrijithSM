@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I’m an  AIML student, deeply interested in artif
 - 🏫 **AIML Student** Currently in my 2nd year
 - 💻 **Learning Path**: Focused on building AI/ML skills and practical projects
 - 🌍 Based in **Bengaluru, India**
-- 🚀 **Current Projects**: [Airbnb Price Recommendation System](https://github.com/ShrijithSM/Airbnb-Price-Recommendation-System)
+- Building [**Zentise**](github.com/zentise)
+- 🚀 **Current Projects**: [Movie Recommendation System]([https://github.com/ShrijithSM/Airbnb-Price-Recommendation-System](https://github.com/Zentise/Movie-Recommendation-System))
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shr_jith) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrijithsm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrijithsmenon@gmail.com) 
@@ -22,7 +23,8 @@ Welcome to my GitHub profile! I’m an  AIML student, deeply interested in artif
 ![](https://github-contributor-stats.vercel.app/api?username=shrijithsm&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 📌 Featured Projects
-
+- **[Movie Recommendation System](https://github.com/Zentise/Movie-Recommendation-System)**
+  A content-based movie recommendation system using NLP (CountVectorizer + Cosine Similarity) on TMDB 5000 dataset. Built with Python, scikit-learn, and Streamlit.
 - **[Speech Emotion Recogniton](https://github.com/ShrijithSM/Speech-Emotion-Recognition)**
   This project focuses on recognizing emotions from speech using machine learning techniques. It aims to classify audio recordings into different emotional states such as happy, sad, angry, etc.
 - **[Election Data Visualization and Prediction](https://github.com/coeusyk/election-prediction)**  
