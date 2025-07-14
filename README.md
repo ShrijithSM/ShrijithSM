@@ -1,6 +1,5 @@
 # 👋 Hey there! I'm Shrijith S Menon
 
-
 Welcome to my GitHub profile! I’m an  AIML student, deeply interested in artificial intelligence, machine learning, and open-source contributions. :)
 ## 🌱 About Me
 - ⚡ Building [**Zentise**](https://github.com/zentise)
@@ -8,7 +7,6 @@ Welcome to my GitHub profile! I’m an  AIML student, deeply interested in artif
 - 💻 **Learning Path**: Focused on building AI/ML skills and practical projects
 - 🌍 Based in **Bengaluru, India**
 - 🚀 **Current Projects**: [Offline AI Study Buddy](https://github.com/Zentise/Offline-AI-Study-Buddy)
-
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shr_jith) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrijithsm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrijithsmenon@gmail.com) 
@@ -43,4 +41,3 @@ Thanks for stopping by! Feel free to reach out, connect, and explore some of my 
 
 [![](https://visitcount.itsvg.in/api?id=shrijithsm&icon=0&color=0)](https://visitcount.itsvg.in)
 Dead 0-0 - 07/07
-
