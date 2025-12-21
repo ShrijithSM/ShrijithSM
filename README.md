@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I’m a 3rd year AIML student, deeply interested i
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
 ## 📌 Featured Projects
 - **[Movie Recommendation System](https://github.com/Zentise/Movie-Recommendation-System)**
   A content-based movie recommendation system using NLP (CountVectorizer + Cosine Similarity) on TMDB 5000 dataset. Built with Python, scikit-learn, and Streamlit.
