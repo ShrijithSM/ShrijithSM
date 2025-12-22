@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I’m a 3rd year AIML student, deeply interested i
 ⚡ Building [Zentise](https://github.com/Zentise)<br>🏫 AIML Student Currently in my 3rd year<br>💻 Learning Path: Focused on building AI/ML skills and practical projects<br>🌍 Based in Bengaluru, India<br>🚀 Current Projects: [DripMate](https://github.com/Zentise/DripMate)
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xsparkm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ShrijithSM) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShrijithSM) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrijithsmenon@gmail.com) 
 
