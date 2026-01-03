@@ -1,4 +1,3 @@
-
 # 👋 Hey there! I'm Shrijith S Menon
 Welcome to my GitHub profile! I’m a 3rd year AIML student, deeply interested in artificial intelligence, machine learning, and open-source contributions. :)
 
@@ -43,5 +42,4 @@ Thanks for stopping by! Feel free to reach out, connect, and explore some of my 
 :)
 
 [![](https://visitcount.itsvg.in/api?id=shrijithsm&icon=0&color=0)](https://visitcount.itsvg.in)
-Dead 0-0 - 07/07
-2026 my year
+Locked In
