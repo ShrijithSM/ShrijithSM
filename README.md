@@ -2,6 +2,8 @@
 Welcome to my GitHub profile! I’m a 3rd year AIML student, deeply interested in artificial intelligence, machine learning, and open-source contributions. :)
 
 
+
+
 ## 🌱 About Me 
 ⚡ Building [Zentise](https://github.com/Zentise)<br>🏫 AIML Student Currently in my 3rd year<br>💻 Learning Path: Focused on building AI/ML skills and practical projects<br>🌍 Based in Bengaluru, India<br>🚀 Current Project: [KeikoChat](https://github.com/Zentise/KeikoChat)
 
