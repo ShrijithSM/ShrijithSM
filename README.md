@@ -17,11 +17,5 @@ Welcome to my GitHub profile! I’m a 3rd year AIML student, deeply interested i
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShrijithSM&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=ShrijithSM&icon=0&color=1)](https://visitcount.itsvg.in)
-
 Thanks for stopping by! Feel free to reach out, connect, and explore some of my projects. Let's build something amazing together!
 :)
-
-[![](https://visitcount.itsvg.in/api?id=shrijithsm&icon=0&color=0)](https://visitcount.itsvg.in)
-Locked In
