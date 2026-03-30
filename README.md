@@ -20,19 +20,6 @@ Welcome to my GitHub profile! I’m a 3rd year AIML student, deeply interested i
 ---
 [![](https://visitcount.itsvg.in/api?id=ShrijithSM&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## 📌 Featured Projects
-- **[Movie Recommendation System](https://github.com/Zentise/Movie-Recommendation-System)**
-  A content-based movie recommendation system using NLP (CountVectorizer + Cosine Similarity) on TMDB 5000 dataset. Built with Python, scikit-learn, and Streamlit.
-- **[Speech Emotion Recogniton](https://github.com/ShrijithSM/Speech-Emotion-Recognition)**
-  This project focuses on recognizing emotions from speech using machine learning techniques. It aims to classify audio recordings into different emotional states such as happy, sad, angry, etc.
-- **[Election Data Visualization and Prediction](https://github.com/coeusyk/election-prediction)**  
-  Visualize past election results and predict possible outcomes for an upcoming election.
-- **[Airbnb Price Recommendation System](https://github.com/ShrijithSM/Airbnb-Price-Recommendation-System)**
-  A Streamlit app which gives price recommendation for Airbnb based on its filters. It uses ML model to predict this.
-- **[IBM AI Developer Notes](https://github.com/ShrijithSM/IBM-AI-Developer-Notes)**  
-   Notes and Projects made by me while pursuing the IBM AI Developer Course.
----
-
 Thanks for stopping by! Feel free to reach out, connect, and explore some of my projects. Let's build something amazing together!
 :)
 
